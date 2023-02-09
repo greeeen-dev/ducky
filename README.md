@@ -1,3 +1,5 @@
+ducky bot project never saw daylight 😔 you can still fork it and work on it if you want to!
+
 # ente ducky bot
 quack
 
